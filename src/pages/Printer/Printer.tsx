@@ -3,7 +3,7 @@ function MonitorPage() {
 
   return (
     <Box className='h-full'>
-      <div>Printer</div>
+      <div>Printer - Tran khoi</div>
     </Box>
   );
 }
