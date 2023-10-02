@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "image": "src/assets/images/gallery-car-1.png",
+      "date": 1692871586,
+      "camera": "Kênh 1",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 2,
+      "image": "src/assets/images/gallery-car-2.png",
+      "date": 1692871586,
+      "camera": "Kênh 3",
+      "location": "39 Quang Trung, Hà Nội, Việt Nam"
+    },
+    {
+      "id": 3,
+      "image": "src/assets/images/gallery-car-3.png",
+      "date": 1692871586,
+      "camera": "Kênh 2",
+      "location": "39 Quang Trung, Hoàn Kiếm, Hà Nội, Việt Nam"
+    },
+    {
+      "id": 4,
+      "image": "src/assets/images/gallery-car-4.png",
+      "date": 1692871586,
+      "camera": "Kênh 1",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 5,
+      "image": "src/assets/images/gallery-car-5.png",
+      "date": 1692871586,
+      "camera": "Kênh 2",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 6,
+      "image": "src/assets/images/gallery-car-6.png",
+      "date": 1692871586,
+      "camera": "Kênh 3",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 7,
+      "image": "src/assets/images/gallery-car-7.jpg",
+      "date": 1692871586,
+      "camera": "Kênh 1",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 8,
+      "image": "src/assets/images/gallery-car-11.png",
+      "date": 1692871586,
+      "camera": "Kênh 3",
+      "location": "39 Quang Trung, Hà Nội, Việt Nam"
+    },
+    {
+      "id": 9,
+      "image": "src/assets/images/gallery-car-9.jpg",
+      "date": 1692871586,
+      "camera": "Kênh 2",
+      "location": "39 Quang Trung, Hoàn Kiếm, Hà Nội, Việt Nam"
+    },
+    {
+      "id": 10,
+      "image": "src/assets/images/gallery-car-10.png",
+      "date": 1692871586,
+      "camera": "Kênh 1",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 11,
+      "image": "src/assets/images/gallery-car-8.jpg",
+      "date": 1692871586,
+      "camera": "Kênh 2",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 12,
+      "image": "src/assets/images/gallery-car-11.png",
+      "date": 1692871586,
+      "camera": "Kênh 3",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 13,
+      "image": "src/assets/images/gallery-car-1.png",
+      "date": 1692871586,
+      "camera": "Kênh 1",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 14,
+      "image": "src/assets/images/gallery-car-9.jpg",
+      "date": 1692871586,
+      "camera": "Kênh 2",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    },
+    {
+      "id": 15,
+      "image": "src/assets/images/gallery-car-10.png",
+      "date": 1692871586,
+      "camera": "Kênh 3",
+      "location": "Xóm 3, Hải Toàn, Hải Hậu, Nam Định, Việt Nam"
+    }
+  ]

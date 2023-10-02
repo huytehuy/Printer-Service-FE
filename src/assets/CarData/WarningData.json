@@ -1,0 +1,56 @@
+[
+  {
+    "time": 1691143586,
+    "address": "K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất GPRS",
+    "color" :"red"
+  },
+  {
+    "time": 1691143586,
+    "address": "2K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất tín hiệu",
+    "color" :"red"
+  },
+  {
+    "time": 1691143586,
+    "address": "K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất GPRS",
+    "color" :"red"
+  },
+  {
+    "time": 1691143586,
+    "address": "2K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất GPRS",
+    "color" :"red"
+  },
+  {
+    "time": 1690329600,
+    "address": "K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất GPRS",
+    "color" :"red"
+  },
+  {
+    "time": 1690329600,
+    "address": "2K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất GPRS",
+    "color" :"red"
+  },
+  {
+    "time": 1690329600,
+    "address": "K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất tín hiệu",
+    "color" :"red"
+  },    
+  {
+      "time": 1690329600,
+      "address": "K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+      "status": "Mất tín hiệu",
+      "color" :"red"
+  },
+  {
+    "time": 1690329600,
+    "address": "K3B, P.Tân Đông Hiệp, TP. Dĩ An, T. Bình Dương",
+    "status": "Mất tín hiệu",
+    "color" :"red"
+}
+]

@@ -1,0 +1,15 @@
+# Ignore artifacts:
+.vscode
+build
+coverage
+e2e
+dist
+src/assets
+1.js
+*.json
+
+**/*.md
+**/*.svg
+**/*.ejs
+**/*.html
+package.json
